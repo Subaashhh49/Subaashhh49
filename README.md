@@ -1,4 +1,4 @@
- Hey! I’m @Subash
+ Hey! I’m Subash
   
 <!---
 Subaashhh49/Subaashhh49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
